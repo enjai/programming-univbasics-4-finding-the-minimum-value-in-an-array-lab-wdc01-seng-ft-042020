@@ -6,5 +6,6 @@ def find_min_value(array)
      min = array[count]
    count +=1
    end
+ end
    min 
 end
